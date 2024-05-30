@@ -1,0 +1,25 @@
+{
+  "name": "fancy-theme-toggle",
+  "version": "0.1.0",
+  "description": "A fancy theme toggle, shipped as a custom element",
+  "keywords": [
+    "theme",
+    "toggle",
+    "dark",
+    "light",
+    "mode",
+    "fancy"
+  ],
+  "license": "MIT",
+  "author": "vjee",
+  "type": "module",
+  "exports": {
+    ".": "./fancy-theme-toggle.js"
+  },
+  "files": [
+    "fancy-theme-toggle.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
