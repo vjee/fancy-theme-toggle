@@ -1,6 +1,6 @@
 {
   "name": "fancy-theme-toggle",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A fancy theme toggle web component",
   "keywords": [
     "theme",
@@ -20,10 +20,15 @@
   "author": "vjee",
   "type": "module",
   "exports": {
-    ".": "./fancy-theme-toggle.js"
+    ".": {
+      "import": "./fancy-theme-toggle.js",
+      "types": "./fancy-theme-toggle.d.ts"
+    }
   },
+  "types": "fancy-theme-toggle.d.ts",
   "files": [
-    "fancy-theme-toggle.js"
+    "fancy-theme-toggle.js",
+    "fancy-theme-toggle.d.ts"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
