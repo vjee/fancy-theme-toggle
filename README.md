@@ -1,5 +1,7 @@
 # Fancy Theme Toggle
 
+> A fancy theme toggle web component
+
 As seen on https://www.instagram.com/reel/C4bA-9cC0kZ/
 
 <img src="https://github.com/vjee/fancy-theme-toggle/raw/main/.github/sequence.jpg" alt="sequence" />
