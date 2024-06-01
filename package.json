@@ -1,6 +1,6 @@
 {
   "name": "fancy-theme-toggle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A fancy theme toggle, shipped as a custom element",
   "keywords": [
     "theme",
@@ -10,6 +10,12 @@
     "mode",
     "fancy"
   ],
+  "homepage": "https://github.com/vjee/fancy-theme-toggle",
+  "bugs": "https://github.com/vjee/fancy-theme-toggle/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vjee/fancy-theme-toggle"
+  },
   "license": "MIT",
   "author": "vjee",
   "type": "module",

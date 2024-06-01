@@ -2,8 +2,8 @@
 
 As seen on https://www.instagram.com/reel/C4bA-9cC0kZ/
 
-<img src=".github/sequence.jpg" alt="sequence" />
-<center><img src=".github/toggle.gif" alt="toggle" /></center>
+<img src="https://github.com/vjee/fancy-theme-toggle/raw/main/.github/sequence.jpg" alt="sequence" />
+<p align="center"><img src="https://github.com/vjee/fancy-theme-toggle/raw/main/.github/toggle.gif" alt="toggle" /></p>
 
 ## Import
 
