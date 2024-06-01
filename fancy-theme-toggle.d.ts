@@ -1,3 +1,3 @@
-export declare class FancyThemeToggle {
+export declare class FancyThemeToggle extends HTMLElement {
   constructor();
 }
